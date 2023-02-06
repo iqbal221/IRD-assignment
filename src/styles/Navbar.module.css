@@ -1,0 +1,28 @@
+.logo1{
+    font-family: 'Sporting Grotesque';
+    color:#8382EB;
+    font-size: 24px;
+}
+.logo2{
+    font-family: 'Sporting Grotesque';
+    background:#8382EB;
+    color:#ffffff;
+    margin-right:5px;
+    border-radius: 10px;
+    padding: 3px 6px 5px 5px;
+    font-size: 24px;
+}
+.btn{
+    background:#264373;
+    color:#ffffff;
+    font:16px;
+    padding:13px 25px 0px 25px;
+    height:50px;
+    width:100px;
+    border-radius:10px;
+    margin-left: 43px;
+    
+}
+
+
+
